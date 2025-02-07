@@ -1,0 +1,10 @@
+streamlit
+gspread
+openai
+google-cloud-texttospeech
+google-generativeai
+pydub
+matplotlib
+seaborn
+pandas
+oauth2client
